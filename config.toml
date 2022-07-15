@@ -1,5 +1,5 @@
 baseURL = 'http://kleenex1.github.io/'
 languageCode = 'en-us'
-title = '코딩 일기장'
+title = 'Coding Diary'
 theme = 'blackburn'
 
